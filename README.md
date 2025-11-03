@@ -193,6 +193,16 @@
         <img src="https://m.media-amazon.com/images/M/MV5BNGYzYjE0NzYtMWRiZC00NTk5LWJiMTctMDRiNDhjMjJmZGNmXkEyXkFqcGc@._V1_.jpg" alt="Snowpiercer">
         <h3 class="movie-title">Snowpiercer</h3>
       </article>
+      
+      <article class="movie">
+        <img src=" https://shorturl.asia/96Hsg" alt="หลักสูตรชีวิตนาวิกน้องใหม่">
+        <h3 class="movie-title">หลักสูตรชีวิตนาวิกน้องใหม่</h3>
+      </article>
+      
+      <article class="movie">
+        <img src="  https://shorturl.asia/DmZqT" alt="sweet tooth">
+        <h3 class="movie-title">sweet tooth</h3>
+      </article>
 
     </div>
   </main>
