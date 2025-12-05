@@ -204,6 +204,11 @@
         <h3 class="movie-title">sweet tooth</h3>
       </article>
 
+     <article class="movie">
+        <img src="  https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Frankenstein2025">
+        <h3 class="movie-title">Frankenstein2025</h3>
+      </article>
+
     </div>
   </main>
 </body>
